@@ -37,5 +37,8 @@ The database consists of the following tables:
 
 - **MySQL**: The relational database management system used for creating and managing the database.
 - **SQL**: The language used to define, manipulate, and query the database.
-
+##MEMBERS
+  Alex Mutuku-alexmwanzia@students.uonbi.ac.ke
+  Grace Mbugua-gmbugua818@gmail.com
+  joey
 
